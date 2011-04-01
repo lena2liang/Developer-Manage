@@ -3,4 +3,4 @@
 
 phhinfo();
 
-echo 'ss';
+'#echo 'ss';
